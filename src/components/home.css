@@ -1,0 +1,8 @@
+.posts{
+    height: 130px;
+    width: 900px;
+    border: 1px solid #a1a4a8;
+    justify-content: center;
+    margin: auto;
+    padding-left: 10px;
+}
